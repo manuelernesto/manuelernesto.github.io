@@ -1,6 +1,7 @@
 /**********************************
 FONTS
 ***********************************/
+
 @font-face {
     font-family: 'ChangaOne';
     src: url("../font/Changa_One/ChangaOne-Regular.ttf");
@@ -11,13 +12,14 @@ FONTS
     src: url("../font/Open_Sans/OpenSans-Regular.ttf");
 }
 
+
 /**********************************
 GENERAL
 ***********************************/
+
 body {
     font-family: 'OpenSans', sans-serif;
 }
-
 
 #wrapper {
     max-width: 940px;
@@ -37,9 +39,11 @@ h3 {
     margin: 0 0 1em 0;
 }
 
+
 /**********************************
 HEADING
 ***********************************/
+
 header {
     float: left;
     margin: 0 0 30px 0;
@@ -66,6 +70,7 @@ h2 {
     font-weight: normal;
 }
 
+
 /**********************************
 NAVIGATION
 ***********************************/
@@ -91,6 +96,7 @@ nav a {
     padding: 15px 10px;
 }
 
+
 /**********************************
 FOOTER
 ***********************************/
@@ -108,9 +114,11 @@ footer {
     margin: 0 5px;
 }
 
+
 /**********************************
 PAGE: PORTFOLIO
 ***********************************/
+
 #gallery {
     margin: 0;
     padding: 0;
@@ -142,6 +150,7 @@ PAGE: ABOUT
     margin: 0 auto 30px;
     border-radius: 100%;
 }
+
 
 /**********************************
 PAGE: CONTACT
@@ -175,57 +184,63 @@ PAGE: CONTACT
     background-image: url("../img/twitter.png");
 }
 
+
 /**********************************
 COLORS
 ***********************************/
 
+
 /* site body */
+
 body {
     background-color: #fff;
     color: #999;
 }
 
+
 /* green header */
+
 header {
     background: #00BCD4;
     border-color: #0097A7;
 }
 
+
 /* nav background on mobile */
+
 nav {
     background: #0097A7;
 }
 
+
 /* logo text */
-h1, h2 {
+
+h1,
+h2 {
     color: #fff;
 }
 
+
 /* links */
+
 a {
     color: #00BCD4;
 }
 
+
 /* nav link */
-nav a, nav a:visited {
+
+nav a,
+nav a:visited {
     color: #fff;
 }
 
+
 /* selected nav link */
-nav a.selected, nav a:hover {
+
+nav a.selected,
+nav a:hover {
     color: #00BCD4;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
