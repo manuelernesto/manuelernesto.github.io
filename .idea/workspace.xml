@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -232,7 +232,7 @@
       <workItem from="1490028320981" duration="1284000" />
       <workItem from="1490202670863" duration="11000" />
       <workItem from="1492080416332" duration="23000" />
-      <workItem from="1494630247787" duration="196000" />
+      <workItem from="1494630247787" duration="278000" />
     </task>
     <task id="LOCAL-00001" summary="algumas modificacoes feitas">
       <created>1471945053464</created>
@@ -276,11 +276,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494630307791</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="cname add1">
+      <created>1494630909785</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1494630909785</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14800000" />
+    <option name="totallyTimeSpent" value="14882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -343,7 +350,8 @@
     <MESSAGE value="actualizado o ano" />
     <MESSAGE value="favicon icon" />
     <MESSAGE value="cname add" />
-    <option name="LAST_COMMIT_MESSAGE" value="cname add" />
+    <MESSAGE value="cname add1" />
+    <option name="LAST_COMMIT_MESSAGE" value="cname add1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -689,7 +697,7 @@
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
