@@ -2,48 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d1c2f24-bc0f-4df7-b025-7318649359c9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/responsive.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/style.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Changa_One/ChangaOne-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Changa_One/ChangaOne-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Changa_One/OFL.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-Bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-BoldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-ExtraBold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-ExtraBoldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-Italic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-Light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-LightItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-Regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-Semibold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/font/Open_Sans/OpenSans-SemiboldItalic.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gincana-biblica.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/appleplay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/facebook-wrap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/favicon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gincana/screenShot1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gincana/screenShot2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gincana/screenShot3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/gincana/screenShot6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/googleplay.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/me.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/twitter-wrap.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/v2.1-en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/v2.2-en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/v2.3-en.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/meu-placard.html" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="manuelernesto.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,11 +25,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="105">
+              <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -271,7 +240,7 @@
       <workItem from="1490202670863" duration="11000" />
       <workItem from="1492080416332" duration="23000" />
       <workItem from="1494630247787" duration="815000" />
-      <workItem from="1494877488030" duration="11000" />
+      <workItem from="1494877488030" duration="552000" />
     </task>
     <task id="LOCAL-00001" summary="algumas modificacoes feitas">
       <created>1471945053464</created>
@@ -336,11 +305,18 @@
       <option name="project" value="LOCAL" />
       <updated>1494631460304</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="cname add2">
+      <created>1494877506578</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1494877506578</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15430000" />
+    <option name="totallyTimeSpent" value="15971000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -404,7 +380,8 @@
     <MESSAGE value="favicon icon" />
     <MESSAGE value="cname add" />
     <MESSAGE value="cname add1" />
-    <option name="LAST_COMMIT_MESSAGE" value="cname add1" />
+    <MESSAGE value="cname add2" />
+    <option name="LAST_COMMIT_MESSAGE" value="cname add2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -738,15 +715,15 @@
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <caret line="0" column="18" lean-forward="true" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        <state relative-caret-position="105">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
           <folding />
         </state>
       </provider>
