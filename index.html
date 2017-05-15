@@ -1,144 +1,89 @@
 <!DOCTYPE html>
-<!--[if lt IE 7 ]>
-<html class="ie ie6" lang="en"><![endif]-->
-<!--[if IE 7 ]>
-<html class="ie ie7" lang="en"><![endif]-->
-<!--[if IE 8 ]>
-<html class="ie ie8" lang="en"><![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!-->
-<html lang="en"><!--<![endif]-->
+<html lang="en">
 <head>
-
     <meta charset="UTF-8">
-    <title>L0ngac0de - Uma forma diferente de aprendizagem ...</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
-    <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
-
-    <link rel="shortcut icon" href="images/ico/favicon.png">
-    <!--[if IE]><![endif]-->
-    <link rel="stylesheet" href="css/style.css">
-    <script src="js/jquery.js"></script>
-    <script src="js/countdown.js"></script>
-    <script src="js/owlcarousel.js"></script>
-    <script src="js/uikit.scrollspy.js"></script>
-    <script src="js/scripts.js"></script>
-    <!--[if lt IE 9]>
-    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+    <title>Manuel Ernesto | Web and Mobile Developer</title>
+    <link href="css/normalize.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+    <link href="css/responsive.css" rel="stylesheet">
+    <link rel="icon" type="image/png" href="img/favicon.png"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body id="backtotop">
+<body>
+<header>
+    <a href="index.html" id="logo">
+        <h1>Manuel Ernesto</h1>
 
-<div class="fullwidth clearfix">
-    <div id="topcontainer" class="bodycontainer clearfix"
-         data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
+        <h2>Web and Mobile Developer</h2>
+    </a>
+    <nav>
+        <ul>
+            <li><a href="index.html"  class="selected">Portfolio</a></li>
+            <li><a href="about.html">Sobre</a></li>
+            <li><a href="contact.html">Contacto</a></li>
+        </ul>
+    </nav>
+</header>
+<div id="wrapper">
+    <section>
+        <!-- Tamanho das imagens 1024 x768-->
+        <ul id="gallery">
+            <li>
+                <a href="gincana-biblica.html">
+                    <img src="img/gincana/screenShot1.jpg" alt="">
 
-        <img src="images/ico/logo.png" width="240px">
-        <h2><span>L0ngac0de</span><br/>
-            <h1>Brevemente</h1></h2>
-        <p>Uma forma diferente de aprendizagem ...</p>
+                    <p>Gincana Bíbica - Tela Principal.</p>
+                </a>
+            </li>
+            <li>
+                <a href="gincana-biblica.html">
+                    <img src="img/gincana/screenShot3.jpg" alt="">
 
-    </div>
+                    <p>Gincana Bíbica - Selecionar um tema.</p>
+                </a>
+            </li>
+            <li>
+                <a href="gincana-biblica.html">
+                    <img src="img/gincana/screenShot6.jpg" alt="">
+
+                    <p>Gincana Bíbica - Tela do Jogo.</p>
+                </a>
+            </li>
+            <li>
+                <a href="meu-placard.html">
+                    <img src="img/v2.1-en.png" alt="">
+
+                    <p>Meu Placard - Tela Principal.</p>
+                </a>
+            </li>
+            <li>
+                <a href="meu-placard.html">
+                    <img src="img/v2.2-en.png" alt="">
+
+                    <p>Meu Placard - Seleccionar Equipa.</p>
+                </a>
+            </li>
+
+            <li>
+                <a href="meu-placard.html">
+                    <img src="img/v2.3-en.png" alt="">
+
+                    <p>Meu Placard - Jogo.</p>
+                </a>
+            </li>
+        </ul>
+    </section>
+    <footer>
+        <a href="https://twitter.com/manuelernest0" target="_blank">
+            <img src="img/twitter-wrap.png" alt="Twitter" class="social-icon">
+        </a>
+        <a href="https://www.facebook.com/manuel.ernesto.35" target="_blank">
+            <img src="img/facebook-wrap.png" alt="Facebook" class="social-icon">
+        </a>
+
+        <p>&copy; 2016-2017 Manuel Ernesto.</p>
+    </footer>
+
 </div>
-
-<div class="arrow-separator arrow-white"></div>
-
-<div class="fullwidth colour1 clearfix">
-    <div id="countdown" class="bodycontainer clearfix"
-         data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
-
-        <div id="countdowncont" class="clearfix">
-            <ul id="countscript">
-                <li>
-                    <span class="days">00</span>
-                    <p>Days</p>
-                </li>
-                <li>
-                    <span class="hours">00</span>
-                    <p>Hours</p>
-                </li>
-                <li class="clearbox">
-                    <span class="minutes">00</span>
-                    <p>Minutes</p>
-                </li>
-                <li>
-                    <span class="seconds">00</span>
-                    <p>Seconds</p>
-                </li>
-            </ul>
-        </div>
-
-    </div>
-</div>
-
-<div class="arrow-separator arrow-theme"></div>
-
-<div class="fullwidth colour2 clearfix">
-    <div id="maincont" class="bodycontainer clearfix"
-         data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
-
-        <p><strong>L0ngac0de</strong> é uma plataforma de ensino de programação.</p>
-        <!--<h2>Sign up and we'll let you know when we launch</h2>-->
-        <!--<p>If you would like to receive <strong>news and special offers</strong> please send us your email address-->
-        <!--below:</p>-->
-        <!--<div id="signupform" class="sb-search clearfix">-->
-        <!--<form method="post" id="contact" class="clearfix">-->
-        <!--<input class="sb-search-input" placeholder="Digite o seu e-mail ..." type="text" value="">-->
-        <!--<input class="sb-search-submit" value="" type="submit">-->
-        <!--<button class="formbutton" type="submit"><span class="fa fa-search"></span></button>-->
-        <!--</form>-->
-        <!--</div>-->
-
-    </div>
-</div>
-
-<div class="arrow-separator arrow-themelight"></div>
-
-<div class="fullwidth colour3 clearfix">
-    <div id="quotecont" class="bodycontainer clearfix"
-         data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
-
-        <div id="commentslider" class="owl-carousel">
-            <div class="item">
-                <p>"<strong>Lorem ipsum dolor</strong> sit amet, consectetur adipiscing elit. Donec quis enim nulla.
-                    <em>Suspendisse posuere</em> arcu ac eros iaculis egestas commodo risus tempus. Fusce placerat nulla
-                    nisi. Proin congue erat non orci adipiscing nec porttitor lacus egestas."</p>
-                <p class="author">- Manuel Ernesto</p>
-            </div>
-            <div class="item">
-                <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Donec quis enim</strong> nulla.
-                    Suspendisse posuere arcu ac eros iaculis egestas commodo risus tempus. <em>Fusce placerat nulla
-                        nisi</em>."</p>
-                <p class="author">- Helder Daniel</p>
-            </div>
-            <div class="item">
-                <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit. <strong>Donec quis enim</strong> nulla.
-                    Suspendisse posuere arcu ac eros iaculis egestas commodo risus tempus. <em>Fusce placerat</em> nulla
-                    nisi. Proin congue erat non orci adipiscing nec <strong>porttitor</strong> lacus egestas."</p>
-                <p class="author">- Vilma Ernesto</p>
-            </div>
-        </div>
-
-    </div>
-</div>
-
-<div class="arrow-separator arrow-grey"></div>
-
-<div class="fullwidth clearfix">
-    <div id="footercont" class="bodycontainer clearfix"
-         data-uk-scrollspy="{cls:'uk-animation-fade', delay: 300, repeat: true}">
-
-        <p class="backtotop"><a title="" href="#backtotop"><span class="fa fa-angle-double-up"></span></a></p>
-        <div id="socialmedia" class="clearfix">
-            <ul>
-                <li><a title="" href="#" rel="external"><span class="fa fa-facebook"></span></a></li>
-                <li><a title="" href="#" rel="external"><span class="fa fa-twitter"></span></a></li>
-                <!--<li><a title="" href="#" rel="external"><span class="fa fa-google-plus"></span></a></li>-->
-                <!--<li><a title="" href="#" rel="external"><span class="fa fa-linkedin"></span></a></li>-->
-                <!--<li><a title="" href="#" rel="external"><span class="fa fa-pinterest"></span></a></li>-->
-            </ul>
-        </div>
-    </div>
-</div>
-
 </body>
 </html>
