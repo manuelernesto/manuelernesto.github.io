@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5d1c2f24-bc0f-4df7-b025-7318649359c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CNAME" afterPath="" />
+    <list default="true" id="5d1c2f24-bc0f-4df7-b025-7318649359c9" name="Default" comment="update blog1">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CNAME" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="manuelernesto.github.io.iws" />
@@ -37,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CNAME">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -63,8 +72,8 @@
         <option value="$PROJECT_DIR$/index_new.html" />
         <option value="$PROJECT_DIR$/css/style.min.css" />
         <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/CNAME" />
       </list>
     </option>
   </component>
@@ -244,7 +253,7 @@
       <workItem from="1494630247787" duration="815000" />
       <workItem from="1494877488030" duration="696000" />
       <workItem from="1494881962570" duration="64000" />
-      <workItem from="1499383917568" duration="38000" />
+      <workItem from="1499383917568" duration="563000" />
     </task>
     <task id="LOCAL-00001" summary="algumas modificacoes feitas">
       <created>1471945053464</created>
@@ -337,11 +346,25 @@
       <option name="project" value="LOCAL" />
       <updated>1494881976865</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update blog">
+      <created>1499383962831</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1499383962831</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update blog1">
+      <created>1499384290210</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1499384290210</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16217000" />
+    <option name="totallyTimeSpent" value="16742000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -398,6 +421,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="algumas modificacoes feitas" />
     <MESSAGE value="adicionado novas informacoes" />
     <MESSAGE value="adicionado novas informacoes2" />
@@ -408,7 +432,8 @@
     <MESSAGE value="cname add2" />
     <MESSAGE value="cname add3" />
     <MESSAGE value="update blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="update blog" />
+    <MESSAGE value="update blog1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update blog1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -491,7 +516,6 @@
     <entry file="file://$PROJECT_DIR$/img/gincana/screenShot2.jpg" />
     <entry file="file://$PROJECT_DIR$/img/phone.png" />
     <entry file="file://$PROJECT_DIR$/css/responsive.css" />
-    <entry file="file://$PROJECT_DIR$/contact.html" />
     <entry file="file://$PROJECT_DIR$/gincana-biblica.html" />
     <entry file="file://$PROJECT_DIR$/meu-placard.html" />
     <entry file="file://$PROJECT_DIR$/about.html" />
@@ -508,6 +532,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index_new.html" />
     <entry file="file://$PROJECT_DIR$/css/main.css" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -516,18 +548,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
+    <entry file="file://$PROJECT_DIR$/contact.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
           <folding />
         </state>
       </provider>
