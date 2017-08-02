@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d1c2f24-bc0f-4df7-b025-7318649359c9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/vr/sketchup/2.png" afterPath="$PROJECT_DIR$/img/vr/sketchup/2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/vr/sketchup/3.png" afterPath="$PROJECT_DIR$/img/vr/sketchup/3.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vr.html" afterPath="$PROJECT_DIR$/vr.html" />
     </list>
@@ -30,8 +28,8 @@
       <file leaf-file-name="vr.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vr.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="49" column="41" lean-forward="false" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="41" />
+            <state relative-caret-position="102">
+              <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -70,8 +68,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="6" />
+    <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="704" />
   </component>
@@ -276,7 +275,7 @@
       <workItem from="1500910775923" duration="2798000" />
       <workItem from="1500971969478" duration="1434000" />
       <workItem from="1500993918927" duration="1822000" />
-      <workItem from="1501709960459" duration="625000" />
+      <workItem from="1501709960459" duration="1075000" />
     </task>
     <task id="LOCAL-00001" summary="algumas modificacoes feitas">
       <created>1471945053464</created>
@@ -418,14 +417,21 @@
       <option name="project" value="LOCAL" />
       <updated>1501005448684</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="download button and link 2">
+      <created>1501710671792</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1501710671792</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24276000" />
+    <option name="totallyTimeSpent" value="24726000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="22" width="1280" height="704" extended-state="6" />
+    <frame x="6" y="22" width="1280" height="704" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17077045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -495,7 +501,8 @@
     <MESSAGE value="NEW MENU ADD" />
     <MESSAGE value="download button" />
     <MESSAGE value="download button and link" />
-    <option name="LAST_COMMIT_MESSAGE" value="download button and link" />
+    <MESSAGE value="download button and link 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="download button and link 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -638,8 +645,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="49" column="41" lean-forward="false" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="41" />
+        <state relative-caret-position="102">
+          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
           <folding />
         </state>
       </provider>
