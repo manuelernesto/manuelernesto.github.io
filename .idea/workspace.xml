@@ -2,6 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d1c2f24-bc0f-4df7-b025-7318649359c9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/Release/tarefa.datagz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/Release/tarefa.jsgz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/Release/tarefa.memgz" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/TemplateData/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/TemplateData/fullbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/TemplateData/fullscreen.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/TemplateData/loadingbar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/TemplateData/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/TemplateData/progresslogo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/Release/UnityLoader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/TemplateData/UnityProgress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/TemplateData/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vr.html" afterPath="$PROJECT_DIR$/vr.html" />
     </list>
@@ -24,18 +37,7 @@
     <favorites_list name="manuelernesto.github.io" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="vr.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vr.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -58,6 +60,7 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/about.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/demo/index.html" />
         <option value="$PROJECT_DIR$/vr.html" />
       </list>
     </option>
@@ -68,7 +71,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="6" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
@@ -93,6 +96,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -100,36 +104,10 @@
               <item name="manuelernesto.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="manuelernesto.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="manuelernesto.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="manuelernesto.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="manuelernesto.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="manuelernesto.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="vr" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="manuelernesto.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="manuelernesto.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="vr" type="462c0819:PsiDirectoryNode" />
-              <item name="sketchup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="manuelernesto.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="manuelernesto.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="vr" type="462c0819:PsiDirectoryNode" />
-              <item name="unity" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -142,17 +120,17 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img/vr/sketchup" />
-      <recent name="$PROJECT_DIR$/img/vr/makehuman" />
-      <recent name="$PROJECT_DIR$/img/vr/unity" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/demo" />
       <recent name="$PROJECT_DIR$/img/vr/sketchup" />
       <recent name="$PROJECT_DIR$/img/vr/unity" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
-      <recent name="$PROJECT_DIR$/img/gincana" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/vr/sketchup" />
+      <recent name="$PROJECT_DIR$/img/vr/makehuman" />
+      <recent name="$PROJECT_DIR$/img/vr/unity" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -275,7 +253,8 @@
       <workItem from="1500910775923" duration="2798000" />
       <workItem from="1500971969478" duration="1434000" />
       <workItem from="1500993918927" duration="1822000" />
-      <workItem from="1501709960459" duration="1075000" />
+      <workItem from="1501709960459" duration="1114000" />
+      <workItem from="1504476931986" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary="algumas modificacoes feitas">
       <created>1471945053464</created>
@@ -424,17 +403,23 @@
       <option name="project" value="LOCAL" />
       <updated>1501710671792</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="download button and link 3">
+      <created>1501714637687</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1501714637687</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24726000" />
+    <option name="totallyTimeSpent" value="25249000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="6" y="22" width="1280" height="704" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17077045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17077045" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39078498" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -502,14 +487,14 @@
     <MESSAGE value="download button" />
     <MESSAGE value="download button and link" />
     <MESSAGE value="download button and link 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="download button and link 2" />
+    <MESSAGE value="download button and link 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="download button and link 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/main.css" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -643,10 +628,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/demo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/vr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="68" column="16" lean-forward="true" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        <state relative-caret-position="392">
+          <caret line="81" column="97" lean-forward="false" selection-start-line="81" selection-start-column="97" selection-end-line="81" selection-end-column="97" />
           <folding />
         </state>
       </provider>
