@@ -6,6 +6,15 @@ body {
 
 }
 
+a {
+    color: #ffffff !important;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #3CDB85 !important;
+}
+
 img {
     vertical-align: middle !important;
 
@@ -106,7 +115,7 @@ img {
 
 
 .text-white {
-    color: white;
+    color: #ffffff;
 }
 
 
